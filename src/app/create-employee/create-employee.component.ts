@@ -28,7 +28,7 @@ export class CreateEmployeeComponent implements OnInit{
     this.router.navigate(['/employees'])
   }
   onSubmit(){
-    // console.log(this.employee);
+    // console.log(nthis.employee);
     this.saveEmployee();
   }
 }

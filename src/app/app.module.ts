@@ -17,7 +17,7 @@ import { EmployeeDetailsComponent } from './employee-details/employee-details.co
     CreateEmployeeComponent,
     UpdateEmployeeComponent,
     EmployeeDetailsComponent
-  ],
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule,
